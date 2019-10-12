@@ -1,5 +1,5 @@
 # Movie Recommendation System Using Graph Database neo4j 
-###Final Project for CSCI E-89 Deep Learning Harvard University 
+### Final Project for CSCI E-63 Big Data Analytics Harvard University
 
 # Problem Statement:  
 The goal is to develop the model which will allow us to find movie recommendation based on user’s previous experience. I’ll use neo4J graph database as a tool. I will use 2 datasets: MovieLens, which contains ratings and tag applications applied toward movies by users, and TMDB 5000 Movie Dataset, which contains, among other, credits data for movies.
